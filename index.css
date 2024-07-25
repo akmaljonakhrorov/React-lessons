@@ -1,0 +1,8 @@
+body {
+  background-color: burlywood;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
